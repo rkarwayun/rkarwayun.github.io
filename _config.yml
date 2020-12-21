@@ -26,6 +26,8 @@ projects:
     archived: false
     forks: true
     projects:
+      - rkarwayun_old.github.io
+      - rkarwayun.github.io
     # - repo-name
     
 social_media:
